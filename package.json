@@ -1,7 +1,7 @@
 {
-  "name": "AJAX",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ajax",
+  "version": "0.0.2",
+  "description": " Single Page Application with jQuery & AJAX ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,18 @@
     "express-sanitizer": "^1.0.1",
     "method-override": "^2.3.5",
     "mongoose": "^4.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puritanic/ajax-jquery.git"
+  },
+  "keywords": [
+    "ajax",
+    "json",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/Puritanic/ajax-jquery/issues"
+  },
+  "homepage": "https://github.com/Puritanic/ajax-jquery#readme"
 }
