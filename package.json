@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/Puritanic/ajax-jquery/issues"
   },
-  "homepage": "https://github.com/Puritanic/ajax-jquery#readme"
+  "homepage": "https://github.com/Puritanic/ajax-jquery#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
